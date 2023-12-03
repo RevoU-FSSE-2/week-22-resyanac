@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+flask = "*"
+pyjwt = "*"
+flask-bcrypt = "*"
+flask-jwt-extended = "*"
+python-dotenv = "*"
+marshmallow = "*"
+psycopg2-binary = "*"
+flask-sqlalchemy = "*"
+sqlalchemy = "*"
+werkzeug = "*"
+flask-cors = "*"
+flask-helmet = "*"
+flask-migrate = "*"
+flask-talisman = "*"
+flask-dotenv = "*"
+firebase-functions = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

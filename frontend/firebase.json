@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "dist",
+    "site": "week22-revou-milestone4",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
